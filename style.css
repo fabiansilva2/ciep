@@ -3887,6 +3887,27 @@ a.link-style3 {
 	color: #eea412;
 }
 
+@media(max-width:576px){
+    #carouselExampleControls {
+        width: 100%;
+        margin: 0 auto 0 auto;
+        margin-top: 30px;
+        height: 600px;
+    }
+    
+}
+
+@media(max-width:960px){
+    #carouselExampleControls {
+        width: 100%;
+        margin: 0 auto 0 auto;
+        margin-top: 30px;
+        height: 600px;
+    }
+
+    
+}
+
 
 
 
